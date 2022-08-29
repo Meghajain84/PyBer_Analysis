@@ -1,3 +1,9 @@
+#Additional files
+matplotlib_practice.ipynb
+PyBer.ipynb
+PyBer_ride_data.ipynb
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
